@@ -1,0 +1,19 @@
+# Eclipse / IDE
+.classpath
+.project
+.settings/
+
+# Build
+build/
+bin/
+target/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+*.env
